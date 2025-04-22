@@ -1,0 +1,1 @@
+# terraform-api-gateway-s3-proxy
